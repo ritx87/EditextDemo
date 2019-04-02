@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1EB980</color>
+    <color name="colorPrimaryDark">#00BFA5</color>
+    <color name="colorAccent">#FF6859</color>
+
+    <color name="rally_green">#1EB980</color>
+    <color name="rally_dark_green">#045D56</color>
+    <color name="rally_orange">#FF6859</color>
+    <color name="rally_yellow">#FFCF44</color>
+    <color name="rally_purple">#B15DFF</color>
+    <color name="grey">#B6B9C9</color>
+    <color name="black">#000000</color>
+
+    <!--<color name="hint_color_active">#00897B</color> // Active label color (Teal 600)
+    <color name="hint_color_inactive">#9E9E9E</color> // Inactive label / Hint (Grey 500)
+
+    <selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:state_focused="true" android:color="@color/hint_color_active"/>
+        <item android:color="@color/hint_color_inactive"/>
+    </selector>-->
+
+</resources>
